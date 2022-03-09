@@ -53,7 +53,7 @@ To run the application, you must run the riser.jar which I added to the assets f
     Duration: 19677
     Count of objects: 501
 ```
-### Resize images to 1920px
+### Resize image to 1920px
 ```
 ➜ java -jar resizer.jar -s /path/image.jpg -S 1920 -m 2
     Duration: 6273
