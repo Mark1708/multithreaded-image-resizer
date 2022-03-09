@@ -59,10 +59,10 @@ To run the application, you must run the riser.jar which I added to the assets f
     Duration: 6273
     Count of objects: 1
 ```
-####Result
+#### Result
 Before | After
 ------ | ------
-![before](https://github.com/Mark1708/multithreaded-image-resizer/blob/main/assets/image.jpg?raw=true)   | ![after](https://github.com/Mark1708/multithreaded-image-resizer/blob/main/assets/image_resized.jpg?raw=true)
+![before](https://github.com/Mark1708/multithreaded-image-resizer/raw/master/assets/image.jpg?raw=true)   | ![after](https://github.com/Mark1708/multithreaded-image-resizer/raw/master/assets/image_resized.jpg?raw=true)
 3648  x  5472 | 1920  x  2880
 ## Features
 * Multithreading
